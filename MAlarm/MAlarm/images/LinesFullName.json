@@ -1,0 +1,112 @@
+[
+	{
+	"lineName":"1",
+	"fullName":"Broadway - 7 Avenue Local"
+	},
+
+	{
+	"lineName":"2",
+	"fullName":"Seventh Avenue Express"
+	},
+
+	{
+	"lineName":"3",
+	"fullName":"Seventh Avenue Express"
+	},
+
+	{
+	"lineName":"4",
+	"fullName":"Lexington Avenue Express"
+	},
+
+	{
+	"lineName":"5",
+	"fullName":"Lexington Avenue Express"
+	},
+
+	{
+	"lineName":"6",
+	"fullName":"Lexington Avenue Local"
+	},
+
+	{
+	"lineName":"7",
+	"fullName":"Flushing Local"
+	},
+
+	{
+	"lineName":"A",
+	"fullName":"8 Avenue Express"
+	},
+
+	{
+	"lineName":"C",
+	"fullName":"Eighth Avenue Local"
+	},
+
+	{
+	"lineName":"E",
+	"fullName":"8 Avenue Local"
+	},
+
+	{
+	"lineName":"B",
+	"fullName":"Central Park West Local / 6 Avenue Express"
+	},
+
+	{
+	"lineName":"D",
+	"fullName":"6 Avenue Express"
+	},
+
+
+	{
+	"lineName":"F",
+	"fullName":"6 Avenue Local"
+	},
+
+	{
+	"lineName":"M",
+	"fullName":"Queens Blvd Local / 6 Av Local / Myrtle Av Local"
+	},
+
+	{
+	"lineName":"G",
+	"fullName":"Brooklyn-Queens Crosstown Local"
+	},
+
+	{
+	"lineName":"J",
+	"fullName":"Nassau Street Express"
+	},
+
+	{
+	"lineName":"Z",
+	"fullName":"Nassau Street Express"
+	},
+
+	{
+	"lineName":"L",
+	"fullName":"14 Street- Canarsie Local"
+	},
+
+	{
+	"lineName":"S",
+	"fullName":"42 Street Shuttle / Franklin Avenue Shuttle / Rockaway Park Shuttle"
+	},
+
+	{
+	"lineName":"N",
+	"fullName":"Broadway Local"
+	},
+
+	{
+	"lineName":"Q",
+	"fullName":"Broadway Express"
+	},
+
+	{
+	"lineName":"R",
+	"fullName":"Queens Boulevard / Broadway / 4 Avenue Local"
+	}
+]

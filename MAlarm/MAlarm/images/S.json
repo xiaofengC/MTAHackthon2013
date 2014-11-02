@@ -1,0 +1,58 @@
+[
+	{
+		"sta": "42 St-Port Authority Bus Terminal",
+		"l": "ACENQRS1237",
+		"lat": "40.755989",
+		"lon": "-73.991049",
+		"pri": "1"
+	},
+	{
+		"sta": "Times Sq-42 St",
+		"l": "ACENQRS1237",
+		"lat": "40.755248",
+		"lon": "-73.987362",
+		"pri": "2"
+	},
+	{
+		"sta": "Grand Central-42 St",
+		"l": "SS4567",
+		"lat": "40.752717",
+		"lon": "-73.978487",
+		"pri": "3"
+	},
+	{
+		"sta": "Franklin Av",
+		"l": "S",
+		"lat": "40.681051",
+		"lon": "-73.95584",
+		"pri": "4"
+	},
+	{
+		"sta": "Park Pl",
+		"l": "S",
+		"lat": "40.674516",
+		"lon": "-73.957932",
+		"pri": "5"
+	},
+	{
+		"sta": "Botanic Garden",
+		"l": "S2345",
+		"lat": "40.670588",
+		"lon": "-73.959093",
+		"pri": "6"
+	},
+	{
+		"sta": "Franklin Av",
+		"l": "S2345",
+		"lat": "40.670337",
+		"lon": "-73.957973",
+		"pri": "7"
+	},
+	{
+		"sta": "Prospect Park",
+		"l": "BQS",
+		"lat": "40.662727",
+		"lon": "-73.962249",
+		"pri": "8"
+	}
+]

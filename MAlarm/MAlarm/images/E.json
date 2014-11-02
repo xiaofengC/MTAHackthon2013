@@ -1,0 +1,149 @@
+[
+	{
+		"sta": "Jamaica Center-Parsons/Archer",
+		"l": "EJZ",
+		"lat": "40.701886",
+		"lon": "-73.801754",
+		"pri": "1"
+	},
+	{
+		"sta": "Sutphin Blvd-Archer Av-JFK Airport",
+		"l": "EJZ",
+		"lat": "40.700401",
+		"lon": "-73.807976",
+		"pri": "2"
+	},
+	{
+		"sta": "Jamaica-Van Wyck",
+		"l": "E",
+		"lat": "40.702731",
+		"lon": "-73.81727",
+		"pri": "3"
+	},
+	{
+		"sta": "Kew Gardens-Union Tpke",
+		"l": "EF",
+		"lat": "40.714673",
+		"lon": "-73.832151",
+		"pri": "4"
+	},
+	{
+		"sta": "75 Av",
+		"l": "EF",
+		"lat": "40.717895",
+		"lon": "-73.836743",
+		"pri": "5"
+	},
+	{
+		"sta": "Forest Hills-71 Av",
+		"l": "EFMR",
+		"lat": "40.721409",
+		"lon": "-73.844632",
+		"pri": "6"
+	},
+	{
+		"sta": "Jackson Heights-Roosevelt Av",
+		"l": "EFMR7",
+		"lat": "40.746784",
+		"lon": "-73.890958",
+		"pri": "7"
+	},
+	{
+		"sta": "Queens Plaza",
+		"l": "EMR",
+		"lat": "40.749857",
+		"lon": "-73.936198",
+		"pri": "8"
+	},
+	{
+		"sta": "Court Sq-23 St",
+		"l": "EGM7",
+		"lat": "40.747706",
+		"lon": "-73.944626",
+		"pri": "9"
+	},
+	{
+		"sta": "Lexington Av/53 St",
+		"l": "EM6",
+		"lat": "40.757804",
+		"lon": "-73.971141",
+		"pri": "10"
+	},
+	{
+		"sta": "5 Av/53 St",
+		"l": "EM",
+		"lat": "40.759556",
+		"lon": "-73.974068",
+		"pri": "11"
+	},
+	{
+		"sta": "7 Av",
+		"l": "BDE",
+		"lat": "40.763141",
+		"lon": "-73.982666",
+		"pri": "12"
+	},
+	{
+		"sta": "50 St",
+		"l": "CE",
+		"lat": "40.761741",
+		"lon": "-73.986924",
+		"pri": "13"
+	},
+	{
+		"sta": "42 St-Port Authority Bus Terminal",
+		"l": "ACENQRGS1237",
+		"lat": "40.755989",
+		"lon": "-73.991049",
+		"pri": "14"
+	},
+	{
+		"sta": "34 St-Penn Station",
+		"l": "ACE",
+		"lat": "40.751561",
+		"lon": "-73.994243",
+		"pri": "15"
+	},
+	{
+		"sta": "23 St",
+		"l": "CE",
+		"lat": "40.745278",
+		"lon": "-73.998771",
+		"pri": "16"
+	},
+	{
+		"sta": "14 St",
+		"l": "ACEL",
+		"lat": "40.739949",
+		"lon": "-74.002655",
+		"pri": "17"
+	},
+	{
+		"sta": "W 4 St-Wash Sq",
+		"l": "ABCDEFM",
+		"lat": "40.731133",
+		"lon": "-74.001534",
+		"pri": "18"
+	},
+	{
+		"sta": "Spring St",
+		"l": "CE",
+		"lat": "40.725583",
+		"lon": "-74.003747",
+		"pri": "19"
+	},
+	{
+		"sta": "Canal St",
+		"l": "ACE",
+		"lat": "40.721967",
+		"lon": "-74.005133",
+		"pri": "20"
+	},
+	{
+		"sta": "World Trade Center",
+		"l": "ACE23",
+		"lat": "40.712258",
+		"lon": "-74.010306",
+		"pri": "21"
+	}
+]
